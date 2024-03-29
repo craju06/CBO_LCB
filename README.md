@@ -33,7 +33,7 @@
     - Wait to finish all computations (This may take some time according to your arguments) to see the `Plot.jpeg`.
 
 
-3. <b>If the above step 2 doesn't work then try the following steps:<b>
+3. <b>If the above step 2 doesn't work then try the following steps:</b>
 
     - Run the python file first using the command `python figure3.py` or `python3 figure3.py` with arguments.
             ## Example:  `python figure3.py 10 30 3` in the terminal. (Arguments are separated by space.)
