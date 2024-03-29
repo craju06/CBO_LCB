@@ -3,7 +3,7 @@
 
 Instructions to run the code together.
 
-1. <b>Requirement</b>: <br>
+1. <b>Requirement:</b>
     - R-version:>=4.1.3
         Dependency packages: tgp, laGP
     - Python-version:>=3.9
@@ -11,7 +11,7 @@ Instructions to run the code together.
  
     <t>Note: Before proceeding further, ensure you have installed all necessary dependencies in a single environment (R and Python).
 
-2. Running the R Script in the terminal:
+2. <b>Running the R Script in the terminal:</b>
 
     I. Navigate the FIGURE3 folder containing the "figure3.R" and "figure3.py" files.
     
