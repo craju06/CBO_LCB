@@ -20,6 +20,7 @@
             <t>Note: This will run the `figure3.py` file as well (internally).
 
     - Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
+    
     ...Default values: (a) Number of initial samples: 20<br>
                             (b) Number of additional samples: 100<br>
                             (c) Number of Monte Carlo runs: 30<br>
