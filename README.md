@@ -24,8 +24,8 @@
         (a) Number of initial samples: 20<br>
         (b) Number of additional samples: 100<br>
         (c) Number of Monte Carlo runs: 30<br>
-      * <t>Note: a. To run with default values simply type "0" for all the arguments, or else Provide integer values as per your requirement.
-                  b. (i). Number of initial samples should be greater than or equal to (>=) 10.
+      * <t>Note:  (a) To run with default values simply type "0" for all the arguments, or else Provide integer values as per your requirement.<br>
+                  (b) (i). Number of initial samples should be greater than or equal to (>=) 10.
                      (ii). Number of additional samples must be greater than number of initial samples.
                      (iii). Number of Monte Carlo runs is independent of other two parameters.
 
