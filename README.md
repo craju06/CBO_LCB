@@ -14,13 +14,13 @@
 
 2. <b>Running the R Script in the terminal:</b>
 
-   i. Navigate the folder containing the `figure3.R` and `figure3.py` files.
+   - Navigate the folder containing the `figure3.R` and `figure3.py` files.
 
-   ii. Execute the R file using `Rscript figure3.R`.<br>
+   - Execute the R file using `Rscript figure3.R`.<br>
 
       <t>Note: This will run the `figure3.py` file as well (internally).
 
-   iii. Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
+   - Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
         * Default values:<br>
         (i) Number of initial samples: 20<br>
         (ii) Number of additional samples: 100<br>
@@ -31,7 +31,7 @@
         (iii) Number of additional samples must be greater than number of initial samples.<br>
         (iv) Number of Monte Carlo runs is independent of other two parameters.<br>
 
-    iv. Wait to finish all computations (This may take some time according to your arguments) to see the `Plot.jpeg`.
+    - Wait to finish all computations (This may take some time according to your arguments) to see the `Plot.jpeg`.
 
 
 4. <b>If the above step 2 doesn't work then try the following steps:</b>
