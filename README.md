@@ -5,7 +5,7 @@
 ### Instructions to run the code together.
 
 1. <b>Requirement:</b>
-    1. R-version: $\geq$ 4.1.3
+    1. \mathttt{R}-version: $\geq$ 4.1.3
         Dependency packages: tgp, laGP
     2. Python-version: $\geq$ 3.9
         Dependency package: scikit-learn:1.4.1.post1, numpy, scipy
@@ -36,13 +36,13 @@
 
 4. <b>If the above step 2 doesn't work then try the following steps:</b>
 
-    1. Run the python file first using the command `python figure3.py` or `python3 figure3.py` with arguments.<br>
+    1. Run the Python file first using the command `python figure3.py` or `python3 figure3.py` with arguments.<br>
         - Example:  `python figure3.py 10 30 3` in the terminal. (Arguments are separated by space.)
 
     2. Open `figure3.R` in an R IDE (like RStudio), and comment out lines 345 to 358, where Python script is called using system command.
     
     3. Now Execute the R file using the command `Rscript figure3.R` and then provide same arguments (given in Python).
         - Example:  `Rscript figure3.R` in the terminal.
-            - This will provoked [step 2(iii)](#third-heading) in command line.
+            - This will provoke [step 2(iii)](#third-heading) in command line.
     
     4. Wait for some time until you see the Plot.jpeg.
