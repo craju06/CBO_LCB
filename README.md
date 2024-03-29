@@ -14,9 +14,9 @@
 
 2. <b>Running the R Script in the terminal:</b>
 
-    I. Navigate the FIGURE3 folder containing the `figure3.R` and `figure3.py` files.
+    I. Navigate the folder containing the `figure3.R` and `figure3.py` files.
     
-    II. Execute the R file using "Rscript figure3.R".
+    II. Execute the R file using `Rscript figure3.R`.
             Note: This will run the "figure3.py" file as well (internally).
 
     III. Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:
