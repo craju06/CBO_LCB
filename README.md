@@ -7,7 +7,7 @@
 1. <b>Requirement:</b>
     1. R-version: $\geq$ 4.1.3
         Dependency packages: tgp, laGP
-    2. Python}-version: $\geq$ 3.9
+    2. Python-version: $\geq$ 3.9
         Dependency package: scikit-learn:1.4.1.post1, numpy, scipy
  
     <t>Note: Before proceeding further, ensure you have installed all necessary dependencies in a single environment (R and Python).
