@@ -20,7 +20,7 @@
 
       <t>Note: This will run the `figure3.py` file as well (internally).
 
-   - Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
+   3. Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
         - Default values:<br>
             - Number of initial samples: 20<br>
             - Number of additional samples: 100<br>
@@ -31,7 +31,7 @@
             - Number of additional samples must be greater than number of initial samples.<br>
             - Number of Monte Carlo runs is independent of other two parameters.<br>
 
-    - Wait to finish all computations (This may take some time according to your arguments) to see the `Plot.jpeg`.
+    4. Wait to finish all computations (This may take some time according to your arguments) to see the `Plot.jpeg`.
 
 
 4. <b>If the above step 2 doesn't work then try the following steps:</b>
