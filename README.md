@@ -3,7 +3,7 @@
 
 Instructions to run the code together.
 
-1. Requirement: <br>
+1. <b>Requirement</b>: <br>
     - R-version:>=4.1.3
         Dependency packages: tgp, laGP
     - Python-version:>=3.9
