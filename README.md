@@ -18,7 +18,7 @@
     
     - Execute the R file using `Rscript figure3.R`.<br>
 
-          <t>Note: This will run the `figure3.py` file as well (internally).
+      <t>Note: This will run the `figure3.py` file as well (internally).
 
     - Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
         * Default values:<br>
