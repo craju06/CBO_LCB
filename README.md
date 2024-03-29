@@ -14,7 +14,7 @@
 
 2. <b>Running the R Script in the terminal:</b>
 
-    I. Navigate the folder containing the `figure3.R` and `figure3.py` files.
+    -- Navigate the folder containing the `figure3.R` and `figure3.py` files.
     
     II. Execute the R file using `Rscript figure3.R`.
             Note: This will run the "figure3.py" file as well (internally).
