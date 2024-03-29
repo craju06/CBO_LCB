@@ -20,7 +20,7 @@
 
       <t>Note: This will run the `figure3.py` file as well (internally).
    
-   3. <a id="third-heading">  </a> Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
+   <a id="third-heading"> 3. </a> Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
         - Default values:<br>
             - Number of initial samples: 20
             - Number of additional samples: 100
