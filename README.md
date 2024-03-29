@@ -5,7 +5,7 @@
 ### Instructions to run the code together.
 
 1. <b>Requirement:</b>
-    1. \mathttt{R}-version: $\geq$ 4.1.3
+    1. \mathtt{R}-version: $\geq$ 4.1.3
         Dependency packages: tgp, laGP
     2. Python-version: $\geq$ 3.9
         Dependency package: scikit-learn:1.4.1.post1, numpy, scipy
