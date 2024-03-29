@@ -26,7 +26,7 @@
         (c) Number of Monte Carlo runs: 30<br>
         * <t>Notes: <br>
         (i) To run with default values simply type "0" for all the arguments, or else Provide integer values as per your requirement.<br>
-        (ii) Number of initial samples should be greater than or equal to (>=) 10.<br>
+        (ii) Number of initial samples should be greater than or equal to ($\geq$) 10.<br>
         (iii) Number of additional samples must be greater than number of initial samples.<br>
         (iv) Number of Monte Carlo runs is independent of other two parameters.<br>
 
