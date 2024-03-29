@@ -1,2 +1,2 @@
 # CBO_LCB
-Constrained Bayesain Optimization with Lower Confidence Bound
+Constrained Bayesian Optimization with Lower Confidence Bound
