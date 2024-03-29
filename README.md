@@ -17,12 +17,12 @@
     - Navigate the folder containing the `figure3.R` and `figure3.py` files.
     
     - Execute the R file using `Rscript figure3.R`.<br>
-            <t>Note: This will run the "figure3.py" file as well (internally).
+            <t>Note: This will run the `figure3.py` file as well (internally).
 
     - Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:
-            Default values: Number of initial samples: 20
-                            Number of additional samples: 100
-                            Number of Monte Carlo runs: 30
+            -Default values: -Number of initial samples: 20
+                             -Number of additional samples: 100
+                             -Number of Monte Carlo runs: 30
             Note: a. To run with default values simply type "0" for all the arguments, or else Provide integer values as per your requirement.
                   b. (i). Number of initial samples should be greater than or equal to (>=) 10.
                      (ii). Number of additional samples must be greater than number of initial samples.
