@@ -14,9 +14,9 @@
 
 2. <b>Running the R Script in the terminal:</b>
 
-    - Navigate the folder containing the `figure3.R` and `figure3.py` files.
+    i. Navigate the folder containing the `figure3.R` and `figure3.py` files.
     
-    - Execute the R file using `Rscript figure3.R`.<br>
+    ii. Execute the R file using `Rscript figure3.R`.<br>
 
       <t>Note: This will run the `figure3.py` file as well (internally).
 
@@ -39,7 +39,7 @@
     - Run the python file first using the command `python figure3.py` or `python3 figure3.py` with arguments.<br>
         * Example:  `python figure3.py 10 30 3` in the terminal. (Arguments are separated by space.)
 
-    - Open `figure3.R` in an R IDE(like RStudio), and comment out lines 345 to 358, where Python script is called using system command.
+    - Open `figure3.R` in an R IDE (like RStudio), and comment out lines 345 to 358, where Python script is called using system command.
     
     - Now Execute the R file using the command `Rscript figure3.R` and then provide same arguments (given in Python).
         * Example:  `Rscript figure3.R` in the terminal.
