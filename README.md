@@ -24,11 +24,11 @@
         (a) Number of initial samples: 20<br>
         (b) Number of additional samples: 100<br>
         (c) Number of Monte Carlo runs: 30<br>
-      * <t>Notes: <br>
-                  (i) To run with default values simply type "0" for all the arguments, or else Provide integer values as per your requirement.<br>
-                  (ii) Number of initial samples should be greater than or equal to (>=) 10.<br>
-                  (iii) Number of additional samples must be greater than number of initial samples.<br>
-                  (iv) Number of Monte Carlo runs is independent of other two parameters.<br>
+        * <t>Notes: <br>
+        (i) To run with default values simply type "0" for all the arguments, or else Provide integer values as per your requirement.<br>
+        (ii) Number of initial samples should be greater than or equal to (>=) 10.<br>
+        (iii) Number of additional samples must be greater than number of initial samples.<br>
+        (iv) Number of Monte Carlo runs is independent of other two parameters.<br>
 
     IV. Wait to finish all computations (This may take some time according to your arguments) to see the Plot.jpeg.
 
