@@ -30,7 +30,7 @@
         (iii) Number of additional samples must be greater than number of initial samples.<br>
         (iv) Number of Monte Carlo runs is independent of other two parameters.<br>
 
-    IV. Wait to finish all computations (This may take some time according to your arguments) to see the Plot.jpeg.
+    - Wait to finish all computations (This may take some time according to your arguments) to see the Plot.jpeg.
 
 
 3. <b>If the above step 2 doesn't work then try the following steps:<b>
