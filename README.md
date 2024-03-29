@@ -41,7 +41,7 @@
     - Open `figure3.R` in an R IDE(like RStudio), and comment out lines 345 to 358, where Python script is called using system command.
     
     - Now Execute the R file using the command `Rscript figure3.R` and then provide same arguments (given in Python).
-            ## Example:  `Rscript figure3.R` in the terminal. 
-                        -- This will provoked step 2(III) in command line.
+        * Example:  `Rscript figure3.R` in the terminal.
+              * This will provoked step 2(III) in command line.
     
     - Wait for some time until you see the Plot.jpeg.
