@@ -9,7 +9,7 @@ Instructions to run the code together.
     - Python-version:>=3.9
         Dependency package: scikit-learn:1.4.1.post1, numpy, scipy
  
-    - Note: Before proceeding further, ensure you have installed all necessary dependencies in a single environment (R and Python).
+    <t>Note: Before proceeding further, ensure you have installed all necessary dependencies in a single environment (R and Python).
 
 2. Running the R Script in the terminal:
 
