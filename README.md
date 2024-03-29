@@ -36,7 +36,7 @@
 3. <b>If the above step 2 doesn't work then try the following steps:</b>
 
     - Run the python file first using the command `python figure3.py` or `python3 figure3.py` with arguments.<br>
-            * Example:  `python figure3.py 10 30 3` in the terminal. (Arguments are separated by space.)
+        * Example:  `python figure3.py 10 30 3` in the terminal. (Arguments are separated by space.)
 
     - Open `figure3.R` in an R IDE(like RStudio), and comment out lines 345 to 358, where Python script is called using system command.
     
