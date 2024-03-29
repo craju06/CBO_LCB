@@ -33,13 +33,13 @@ Note: Before proceeding further, ensure you have installed all necessary depende
 
 3. If the above step 2 doesn't work then try the following steps:
 
-    I. Run the python file first using the command "python figure3.py" of "python3 figure3.py" with arguments.
+    I. Run the python file first using the command `python figure3.py` of "python3 figure3.py" with arguments.
             ## Example:  "python figure3.py 10 30 3" in the terminal. (Arguments are separated by space.)
 
     II. Open "figure3.R" in an R IDE(like RStudio), and comment out lines 345 to 358, where Python script is called using system command.
     
     III. Now Execute the R file using the command "Rscript figure3.R" and then provide same arguments (given in Python).
-            ## Example:  "Rscript figure3.R" in the terminal. 
+            ## Example:  `Rscript figure3.R` in the terminal. 
                         -- This will provoked step 2(III) in command line.
     
     IV. Wait for some time until you see the Plot.jpeg.
