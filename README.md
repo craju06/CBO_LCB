@@ -4,10 +4,9 @@
 Instructions to run the code together.
 
 1. Requirement: <br>
-    a. R-version:>=4.1.3
+    - R-version:>=4.1.3
         Dependency packages: tgp, laGP
-<br>
-    b. Python-version:>=3.9
+    - Python-version:>=3.9
         Dependency package: scikit-learn:1.4.1.post1, numpy, scipy
  
 Note: Before proceeding further, ensure you have installed all necessary dependencies in a single environment (R and Python).
