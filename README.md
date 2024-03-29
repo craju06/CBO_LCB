@@ -20,7 +20,7 @@
 
       <t>Note: This will run the `figure3.py` file as well (internally).
 
-   3. Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br>
+   3. Provide the values for number of initial samples, number of additional samples, and number of Monte Carlo iterations as arguments:<br> {#mht}
         - Default values:<br>
             - Number of initial samples: 20
             - Number of additional samples: 100
@@ -43,6 +43,6 @@
     
     3. Now Execute the R file using the command `Rscript figure3.R` and then provide same arguments (given in Python).
         - Example:  `Rscript figure3.R` in the terminal.
-            - This will provoked step 2 (3.) in command line.
+            - This will provoked step 2 (#mht) in command line.
     
     4. Wait for some time until you see the Plot.jpeg.
